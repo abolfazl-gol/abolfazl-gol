@@ -2,7 +2,7 @@
 - I’m currently working on [Feedbackfa](https://github.com/feedbackfa)
 
 ### Languages and Tools:
-![django freamfork](https://docs.fing.ir/quickstart/django)
+![django freamfork](https://raw.githubusercontent.com/fingcloud/devicon/master/icons/django/django-plain.svg)
 <!--
 **abolfazl-gol/abolfazl-gol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
